@@ -1,0 +1,24 @@
+{
+  "books": [
+    {
+      "title": "The Art of Thinking Clearly",
+      "description": "A book that explores common cognitive biases and logical fallacies that affect decision-making."
+    },
+    {
+      "title": "Atomic Habits",
+      "description": "A practical guide on how small changes in habits can lead to remarkable results over time."
+    },
+    {
+      "title": "Sapiens: A Brief History of Humankind",
+      "description": "An exploration of human evolution, society, and culture from ancient history to the modern age."
+    },
+    {
+      "title": "Clean Code",
+      "description": "A handbook of software craftsmanship focused on writing clean, maintainable, and efficient code."
+    },
+    {
+      "title": "The Lean Startup",
+      "description": "A guide for entrepreneurs on building successful startups through continuous innovation and feedback."
+    }
+  ]
+}
